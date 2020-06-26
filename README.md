@@ -2,13 +2,13 @@
 # fishbone++
 A theme influenced by [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) theme fishbone 
 and [oh-my-zsh](https://github.com/ohmyzsh) theme [typewritten](https://github.com/reobin/typewritten).
-I really like these two theme, so mix them together.
+I really like these two themes, so I mix them together.
 
 ![Default Look](pics/defaultlook.png)
 
 ## Features
 * full path from home to current directory
-* emoji gti status :)
+* emoji git status :)
 * fault return indicator
 * various customization
   * prompt layout
@@ -43,6 +43,11 @@ You can change the prompt symbol in your `.zshrc` file, for example
 `FISHBONE_PROMPT="+++ "`
 
 ![Changed Prompt](pics/prompt.png)
+
+### Faluse Reture Status
+The prompt symbol's color will be changed to red.
+
+![Return Status](pics/returnStatus.png)
 
 ### User
 You can change the username in your `.zshrc` file, for example  
