@@ -44,7 +44,7 @@ You can change the prompt symbol in your `.zshrc` file, for example
 
 ![Changed Prompt](pics/prompt.png)
 
-### Faluse Reture Status
+### False Reture Status
 The prompt symbol's color will be changed to red.
 
 ![Return Status](pics/returnStatus.png)
