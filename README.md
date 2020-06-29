@@ -4,6 +4,8 @@ A theme influenced by [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) the
 and [oh-my-zsh](https://github.com/ohmyzsh) theme [typewritten](https://github.com/reobin/typewritten).
 I really like these two themes, so I mix them together.
 
+**See Updates :)**
+
 ![Default Look](pics/defaultlook.png)
 
 
@@ -101,7 +103,7 @@ The old modified git status emoji causes some spacing problem on Gnome Terminal 
 
 ![New git modified status deepin](pics/new_modified_status_deepin.png)
 
-![New git modified status ubuntu](/home/ethan/Fishbonepp/pics/new_modified_status_ubuntu.png)
+![New git modified status ubuntu](pics/new_modified_status_ubuntu.png)
 
 ## More Info
 * Terminal is [Windows Terminal](https://github.com/microsoft/terminal)
