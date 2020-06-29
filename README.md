@@ -1,12 +1,14 @@
-
 # fishbone++
+
 A theme influenced by [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) theme fishbone 
 and [oh-my-zsh](https://github.com/ohmyzsh) theme [typewritten](https://github.com/reobin/typewritten).
 I really like these two themes, so I mix them together.
 
 ![Default Look](pics/defaultlook.png)
 
+
 ## Features
+
 * full path from home to current directory
 * emoji git status :)
 * fault return indicator
@@ -40,7 +42,7 @@ rm Fishbonepp -rf
 
 ### Prompt
 You can change the prompt symbol in your `.zshrc` file, for example  
-`FISHBONE_PROMPT="+++ "`
+`FISHBONEPP_PROMPT="+++ "`
 
 ![Changed Prompt](pics/prompt.png)
 
@@ -85,11 +87,21 @@ You can change to `"singleline"` mode by `FISHBONEPP_LINE_MODE="singleline"` in 
 
 ## Git Staus
 * ➕ -- added but not yet committed
-* 🛠️ -- modified
+* ✒️ -- modified
 * ➖ -- deleted
 * ⁉️ -- renamed
 * 🥺 -- unmerged
 * 🚝 -- untracked
+
+## Updates
+
+### June 28, 2020
+
+The old modified git status emoji causes some spacing problem on Gnome Terminal and Deepin Terminal, so I find a new emoji for that.
+
+![New git modified status deepin](pics/new_modified_status_deepin.png)
+
+![New git modified status ubuntu](/home/ethan/Fishbonepp/pics/new_modified_status_ubuntu.png)
 
 ## More Info
 * Terminal is [Windows Terminal](https://github.com/microsoft/terminal)
